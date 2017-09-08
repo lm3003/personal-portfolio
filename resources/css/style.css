@@ -1,0 +1,106 @@
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.btn-secondary {
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.card {
+    border: none;
+    background-color: transparent;
+}
+
+.card-title {
+    color: rgba(0, 0, 0, 0.72) !important;
+    font-size: 300%;
+    font-weight: 300;
+}
+
+.card-text {
+    color: black !important;
+}
+
+.card-img-top-about-custom {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.card-block-custom {
+    height: 248px;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.card-img-top-portfolio-custom {
+    height: 250px;
+    width: 100%;
+}
+
+
+
+.dark {
+    font-weight: 700;
+}
+
+.heavy-font {
+    font-weight: 500;
+}
+
+p {
+    text-align: justify;
+}
+
+.card-block-portfolio-custom {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    background-color: #272727;
+    height: 154px;
+}
+
+.card-block-about-outer-custom {
+    background-color: #545454;
+}
+
+.card-img-top-portfolio-custom {
+    font-size: 40%;
+}
+
+.card-title-portfolio-custom {
+    color: white !important;
+}
+
+.card-img-contact-custom {
+    height: 436px;
+}
+
+.btn-contact-custom {
+    margin: 20px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.card-title-contact-custom {
+    margin-left: 100px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.98);
+    box-shadow: 0 2px 2px #efefef;
+    z-index: 9999;
+}
+
+
+
+
